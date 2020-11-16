@@ -1,0 +1,219 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+header{
+    overflow: hidden;
+    padding:30px 0p;
+}
+.container{
+    width:1140px;
+    margin: 0px auto;;
+}
+.logo{
+    width:30%;
+    float: left;
+    padding-top: 35px;
+}
+.logo img{
+    width: 150px;
+}
+nav{
+    min-height: 50px;
+    width: 63%;
+    float: left;
+    padding-top: 35px;
+    margin-left: 50px;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: grey;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    
+}
+.banner{
+    background-image: url(../images/icrowdme-PSD---cssauthor.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    float: left;
+}
+.text-editor{
+    width:100%;
+    float: left;
+    margin: 0px auto;
+    text-align: center;
+    padding: 130px 0px;
+}
+.text-editor h2{
+    color: rgb(196, 181, 181);
+    font-size: 33px;
+}
+.text-editor p{
+    color: white;
+    font-size: 28px;
+    padding: 23px 0px;
+}
+.btn{
+    padding: 19px 32px;
+    border-radius: 9px;
+    background-color: lawngreen;
+}
+.btn a{
+    text-decoration: none;
+    color: honeydew;
+    font-size: 21px;
+}
+.describe{
+    width: 100%;
+    float: left;
+    padding: 80px 0px;
+}
+.elements{
+    width: 100%;
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+}
+.elements h2{
+
+    color: #000000ba;
+    font-size: 30px;
+    padding: 25px 0px;
+}
+.elements p{
+    color: grey;
+    font-size: 17px;
+    line-height: 26px;
+
+}
+.property{
+    width:100%;
+    float: left;
+    overflow: hidden;
+    background-image: linear-gradient(to right,rgb(124, 211, 211) 50%,rgb(209, 194, 194)50%);
+}
+.properties{
+    width: 50%;
+    float: left;
+    text-align: center;
+    
+}
+.p-one img{
+    width:150px;
+    padding: 20px 0px;
+}
+.p-one h3{
+    color:rgb(41, 39, 39);
+    font-size:35px;
+    padding:25px 0px;
+
+}
+.p-one p{
+    color: grey;
+    line-height: 33px;
+
+}
+.anc{
+
+    background-color: dodgerblue;
+    padding: 12px 29px;
+    margin: 24px 0px;
+    border-radius:10px;
+}
+
+.anc a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+.buyer{
+    width: 50%;
+    float: left;
+    text-align: center;
+
+}
+.p-two img{
+    width:140px;
+    padding: 20px 0px;
+}
+.p-two h3{
+    color:rgb(41, 39, 39);
+    font-size:35px;
+    padding:25px 0px;
+    
+
+}
+.anc-one{
+    background-color: lightgreen;
+    padding: 12px 29px;
+    margin: 24px 0px;
+    border-radius:10px;
+}
+.anc-one a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+
+}
+.p-two p{
+    color: grey;
+    line-height: 33px;
+}
+.pera{
+    width: 100%;
+    overflow: hidden;
+    padding: 70px 0px;
+}
+.text-decor{
+    width: 70%;
+    float: left;
+}
+.text-decor h2{
+    color: rgb(41, 39, 39);
+    padding: 20px 0px;
+
+}
+.text-decor p{
+    color: grey;
+
+}
+.a-button{
+    width: 30%;
+    float: left;
+    margin-top: 27px;
+    text-align: right;
+
+}
+.bun{
+    padding: 15px 24px;
+    border-radius: 10px;
+}
+footer{
+    overflow: hidden;
+    padding: 25px 0px;
+    background-color: blanchedalmond;
+}
+.copyright{
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.copyright h5{
+    color: gray;
+}
